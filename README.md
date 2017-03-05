@@ -1,6 +1,8 @@
 Continuous Integration with Jenkins on Amazon EC2
 =================================================
 
+Github notify test
+
 # testing source tree
 
 ## Initial Setup
